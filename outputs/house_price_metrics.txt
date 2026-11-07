@@ -1,0 +1,6 @@
+HOUSE PRICE PREDICTION – LINEAR REGRESSION
+Training rows: 1168
+Testing rows: 292
+Mean Squared Error (MSE): 868,707,800.37
+Root Mean Squared Error (RMSE): 29,473.85
+R² score: 0.8867

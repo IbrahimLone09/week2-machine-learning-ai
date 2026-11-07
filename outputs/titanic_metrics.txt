@@ -1,0 +1,18 @@
+TITANIC SURVIVAL PREDICTION – LOGISTIC REGRESSION
+Training rows: 712
+Testing rows: 179
+Accuracy: 0.8268 (82.68%)
+
+Confusion Matrix (rows = actual, columns = predicted):
+[[98 12]
+ [19 50]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.89      0.86       110
+           1       0.81      0.72      0.76        69
+
+    accuracy                           0.83       179
+   macro avg       0.82      0.81      0.81       179
+weighted avg       0.83      0.83      0.82       179
