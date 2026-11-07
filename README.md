@@ -82,17 +82,3 @@ The program preprocesses the data, trains Logistic Regression and reports accura
 
 Scores are computed at runtime and are not fabricated or hard-coded.
 
-## Upload to GitHub
-
-Extract the ZIP, open a terminal in the project folder, and run:
-
-```bash
-git init
-git add .
-git commit -m "Complete Week 2 machine learning assignments"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
-```
-
-Replace the remote URL with your own repository URL.
